@@ -1,4 +1,4 @@
-[中文](profile/README.md) English
+[中文](README.md) English
 
 # 🏆 Winnology Global Research Consortium
 
